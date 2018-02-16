@@ -8,6 +8,7 @@ wget https://raw.githubusercontent.com/Marfjeh/coinhive-block/master/domains
 cat justdomains domains > merged
 #Generate easy adaway compatible file
 sed -e 's/^/127.0.0.1 /' merged > adaway.txt
+#remove temp downloaded domain and merged files
 rm justdomains
 rm domains
 rm merged
