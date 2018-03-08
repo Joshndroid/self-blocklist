@@ -3,7 +3,9 @@ rm adaway.txt
 rm justdomains
 rm domains
 #Grab the malwaredomains hosts files
-wget http://mirror1.malwaredomains.com/files/justdomains
+wget http://mirror1.malwaredomains.com/files/justdomains.zip
+unzip justdomains.zip justdomains
+rm justdomains.zip
 #grab the coin-hive domains files
 wget https://raw.githubusercontent.com/Marfjeh/coinhive-block/master/domains
 #merge the files together
