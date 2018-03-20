@@ -23455,3 +23455,4 @@
 127.0.0.1 zxc1-ustokyyneikyfasnm.stackpathdns.com
 127.0.0.1 cfcnet.top
 127.0.0.1 graftpool.ovh
+127.0.0.1 cryptaloot.pro
