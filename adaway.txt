@@ -14458,7 +14458,6 @@
 127.0.0.1 facebook-user-signin.com
 127.0.0.1 factoid.co
 127.0.0.1 fanpage-confrim-safe.tk
-127.0.0.1 fantabulousinteriors.com
 127.0.0.1 fashionismines.com
 127.0.0.1 fb-2018sist.000webhostapp.com
 127.0.0.1 fbcdn.48fcdee8c65b04217afda21247fd87e9.ga
@@ -26406,7 +26405,6 @@
 127.0.0.1 lineus.top
 127.0.0.1 targer.co.za
 127.0.0.1 pagaldaily.com
-127.0.0.1 
 127.0.0.1 hoteldelz.cf
 127.0.0.1 activate-wfb.today
 127.0.0.1 actupspeedreading.com
@@ -26445,6 +26443,7 @@
 127.0.0.1 cashierresume.org
 127.0.0.1 grupoexataservicos.site
 127.0.0.1 uy-shane.co.uk
+127.0.0.1 
 127.0.0.1 2giga.link
 127.0.0.1 803mine.com
 127.0.0.1 aajychvi.bid
