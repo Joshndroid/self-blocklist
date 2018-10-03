@@ -14754,7 +14754,6 @@
 127.0.0.1 sahithiacademy.com
 127.0.0.1 salsaafrique.co.ke
 127.0.0.1 santanetibeempresarial.com
-127.0.0.1 savingdinner.com
 127.0.0.1 sbhackguide.com
 127.0.0.1 scureweb2app.a-s-s-tgroup.com
 127.0.0.1 secure.bankofamerica.com.oidscreen.gorequestlocale.planet.co.ke
@@ -26825,6 +26824,8 @@
 127.0.0.1 vmkbcb.info
 127.0.0.1 updtenet2019.com
 127.0.0.1 user57403.vs.speednames.com
+127.0.0.1 zeelver.com
+127.0.0.1 turbotubes.cl
 127.0.0.1 2giga.link
 127.0.0.1 803mine.com
 127.0.0.1 aajychvi.bid
