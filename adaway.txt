@@ -14053,7 +14053,6 @@
 127.0.0.1 support1718.000webhostapp.com
 127.0.0.1 supportapplygroup.com
 127.0.0.1 supportcardapply.com
-127.0.0.1 surveys.envisiongloballeadership.com
 127.0.0.1 swirlworld.net
 127.0.0.1 sycamorecottage.co.za
 127.0.0.1 system-ads.000webhostapp.com
@@ -24892,7 +24891,6 @@
 127.0.0.1 delowarweb.com
 127.0.0.1 dios-regalo.com
 127.0.0.1 eastneukpianos.co.uk
-127.0.0.1 es.wowhead.com
 127.0.0.1 ezfm.webnaz.net
 127.0.0.1 fantastechs.com
 127.0.0.1 fidoetpay.com
@@ -24901,7 +24899,6 @@
 127.0.0.1 hos.modtdd.xyz
 127.0.0.1 id-support.cloud
 127.0.0.1 judoclub-eberswalde.de
-127.0.0.1 ko.wowhead.com
 127.0.0.1 lannickdinard.org
 127.0.0.1 liveteach.fr
 127.0.0.1 maitland.ml
@@ -25009,7 +25006,6 @@
 127.0.0.1 device.find.fd17.info
 127.0.0.1 dvss.in
 127.0.0.1 econotoolsinc.com
-127.0.0.1 edealinformation.com
 127.0.0.1 erify-identity.usawf.credit
 127.0.0.1 estoman.com
 127.0.0.1 fancydiamondtree.com
@@ -26842,6 +26838,14 @@
 127.0.0.1 vodafone-nederland.com
 127.0.0.1 webapps-intl.ca-updated.com
 127.0.0.1 wowclick.in
+127.0.0.1 vktest.aiq.ru
+127.0.0.1 ztion.yolasite.com
+127.0.0.1 testmyblocker.com
+127.0.0.1 woodartguru.in
+127.0.0.1 ypmib.com.my
+127.0.0.1 zapgazel.ru
+127.0.0.1 tabtaxn2018.com
+127.0.0.1 textmate.tv
 127.0.0.1 2giga.link
 127.0.0.1 803mine.com
 127.0.0.1 aajychvi.bid
