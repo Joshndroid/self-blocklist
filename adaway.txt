@@ -12819,7 +12819,6 @@
 127.0.0.1 uzqit.saqibsiddiqui.com
 127.0.0.1 validinfosystem.ga
 127.0.0.1 vaptistika-olga.gr
-127.0.0.1 vataninsaatmakina.com
 127.0.0.1 venkatsubramaniam.ga
 127.0.0.1 verification-nab.info
 127.0.0.1 verifywe.xyz
@@ -25505,7 +25504,6 @@
 127.0.0.1 urvasiodissi.com
 127.0.0.1 vertexuniversal.com
 127.0.0.1 vverisoase.yah0o0.fr
-127.0.0.1 wanderlustwanderlearn.com
 127.0.0.1 wels-fargo.com.connect.wf-south.info
 127.0.0.1 wipingtears.co.za
 127.0.0.1 xendor.usa.cc
@@ -26851,6 +26849,12 @@
 127.0.0.1 zalanmanbuege.com
 127.0.0.1 zonasegura-zopremiadoclientesvipbccp.cf
 127.0.0.1 trybestsale.su
+127.0.0.1 tueresmasclinic.com
+127.0.0.1 verifikasiidaf11.wixsite.com
+127.0.0.1 visaconstruction.co.uk
+127.0.0.1 vitamincreative.co.za
+127.0.0.1 fwcauses.com
+127.0.0.1 winfreesupport.club
 127.0.0.1 2giga.link
 127.0.0.1 803mine.com
 127.0.0.1 aajychvi.bid
