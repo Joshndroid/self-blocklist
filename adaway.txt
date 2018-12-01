@@ -147,7 +147,6 @@
 127.0.0.1 cheshirehockey.com
 127.0.0.1 cibonline.org
 127.0.0.1 embedor.com
-127.0.0.1 end70.com
 127.0.0.1 ensenadasportfishing.com
 127.0.0.1 eurolatexthai.com
 127.0.0.1 falconexport.com
@@ -19294,7 +19293,6 @@
 127.0.0.1 bobbyandcracka.com
 127.0.0.1 canilehotelilheusdog.com.br
 127.0.0.1 cart.asianglobal.cn
-127.0.0.1 certxpert.com
 127.0.0.1 cfstrpostfiscal-001-site1.etempurl.com
 127.0.0.1 chcdonline.org
 127.0.0.1 cidvale.com.br
@@ -26855,6 +26853,10 @@
 127.0.0.1 vitamincreative.co.za
 127.0.0.1 fwcauses.com
 127.0.0.1 winfreesupport.club
+127.0.0.1 vkadmin.info
+127.0.0.1 wakanfoundation.com
+127.0.0.1 webapps9282.serveirc.com
+127.0.0.1 windiretodaserra.co.uk
 127.0.0.1 2giga.link
 127.0.0.1 803mine.com
 127.0.0.1 aajychvi.bid
