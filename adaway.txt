@@ -11970,7 +11970,6 @@
 127.0.0.1 turiesmo.com
 127.0.0.1 u0466829.cp.regruhosting.ru
 127.0.0.1 ubracing.co.uk
-127.0.0.1 umancomunica.com.ar
 127.0.0.1 umbertomorera.it
 127.0.0.1 urbangardenstructures.co.uk
 127.0.0.1 utillitty.com
@@ -24314,7 +24313,6 @@
 127.0.0.1 particuliers.secure.ingdirect.fr.espace.client.reinomusical.com
 127.0.0.1 passmycode.co.za
 127.0.0.1 plus28.ignorelist.com
-127.0.0.1 prinsenboat.com
 127.0.0.1 radiocanalfiesta.com
 127.0.0.1 ricardo.ch-login.icu
 127.0.0.1 riowloclawek.gb.net
@@ -26857,6 +26855,8 @@
 127.0.0.1 wakanfoundation.com
 127.0.0.1 webapps9282.serveirc.com
 127.0.0.1 windiretodaserra.co.uk
+127.0.0.1 sqxflow.com
+127.0.0.1 weiye-0fc.com
 127.0.0.1 2giga.link
 127.0.0.1 803mine.com
 127.0.0.1 aajychvi.bid
