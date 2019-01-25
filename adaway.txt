@@ -17000,7 +17000,6 @@
 127.0.0.1 tecnomatic.net.br
 127.0.0.1 telefonosalmayor.com.ve
 127.0.0.1 test2.jessekanclerz.com
-127.0.0.1 thebombadils.com
 127.0.0.1 thehautesociete3.visionpush.com
 127.0.0.1 thelobolair.club
 127.0.0.1 thewall-usa.bid
@@ -18103,7 +18102,6 @@
 127.0.0.1 support-login-lnc.com
 127.0.0.1 thanhgiang.edu.vn
 127.0.0.1 vopogakakud.eu
-127.0.0.1 webredir.vip.gandi.net
 127.0.0.1 welovegracetv.com
 127.0.0.1 wilwsnpc.info
 127.0.0.1 xbxanaatosax9.com
@@ -26865,6 +26863,14 @@
 127.0.0.1 posb-dbs-bank.com
 127.0.0.1 samwebstudio.co.in
 127.0.0.1 xeqils.com
+127.0.0.1 zariya.hu
+127.0.0.1 zonasegurasbeta.com
+127.0.0.1 yzcizice.uk
+127.0.0.1 flashobmen.ru
+127.0.0.1 jubba.se
+127.0.0.1 owmobmen.ru
+127.0.0.1 paxful.co.in
+127.0.0.1 repairshoppr.com
 127.0.0.1 2giga.link
 127.0.0.1 803mine.com
 127.0.0.1 aajychvi.bid
