@@ -15668,7 +15668,6 @@
 127.0.0.1 lavender-lounge.com
 127.0.0.1 laxmicarpentry.com
 127.0.0.1 lh41.isolutions.ae
-127.0.0.1 lionfencing.com
 127.0.0.1 login-in.monster-hackers.com
 127.0.0.1 login.microsofteonline.cf
 127.0.0.1 loginslf.beget.tech
@@ -17446,7 +17445,6 @@
 127.0.0.1 deviclinic.in
 127.0.0.1 document.wordsmithindia.in
 127.0.0.1 ebay.listing.seller.smudge360.motors.program.motaphl.com
-127.0.0.1 elisadalbosco.com
 127.0.0.1 enhancedesignstudio.com
 127.0.0.1 espace-free-mobile.freemo8c.beget.tech
 127.0.0.1 eventosarc.com
@@ -18074,7 +18072,6 @@
 127.0.0.1 locked-account-activity.com
 127.0.0.1 marketbd.xyz
 127.0.0.1 mugituz.com
-127.0.0.1 mumbaimalmo.se
 127.0.0.1 myaccount-access-locked.com
 127.0.0.1 my-secure-acces-unlocked-verify.com
 127.0.0.1 netflix-one.stream
@@ -18795,7 +18792,6 @@
 127.0.0.1 fulenbacherstrasse40.ch
 127.0.0.1 gansbaaiboardinglodge.co.za
 127.0.0.1 gazariaaloron24.com
-127.0.0.1 gear.gp
 127.0.0.1 getsmallbusinessloan.net
 127.0.0.1 globalmediatama.co.id
 127.0.0.1 gov.uk-revenue-customs.sytcbdata.com
@@ -19187,7 +19183,6 @@
 127.0.0.1 notificetionwem.fr.nf
 127.0.0.1 oeyiyqylgcfivavw.click
 127.0.0.1 okazaki.cc
-127.0.0.1 oliveirafoto.com
 127.0.0.1 onbkportal.com
 127.0.0.1 ourversionfragrances.com
 127.0.0.1 pacefultract.com
@@ -19207,7 +19202,6 @@
 127.0.0.1 security-hsbc.co.uk
 127.0.0.1 service-appleld.com
 127.0.0.1 sharacorepoz.com
-127.0.0.1 silkenwindhounds.org
 127.0.0.1 spykss.com
 127.0.0.1 staldecor.pl
 127.0.0.1 sunyst.co
@@ -19426,7 +19420,6 @@
 127.0.0.1 jackthescribbler.com
 127.0.0.1 juechter-juist.de
 127.0.0.1 sasamototen.jp
-127.0.0.1 teamtusk.com
 127.0.0.1 cevahirreklam.com
 127.0.0.1 helleny.com
 127.0.0.1 florencegusmini.com
@@ -20877,7 +20870,6 @@
 127.0.0.1 prominencebd.com.au
 127.0.0.1 ptpscollege.org
 127.0.0.1 rapidymotoboy.com.br
-127.0.0.1 silkenwindhound.com
 127.0.0.1 til5d6zn.beget.tech
 127.0.0.1 ubs-online-digital.com
 127.0.0.1 user57228.vs.speednames.com
@@ -26846,7 +26838,6 @@
 127.0.0.1 binaryonlinetrade.com
 127.0.0.1 yellowsquareuae.com
 127.0.0.1 yourcareerhelper.com
-127.0.0.1 obmenfast.ru
 127.0.0.1 pturesults.in
 127.0.0.1 riverhotserv.com
 127.0.0.1 tgrghrtgrtgrt.ga
@@ -26871,8 +26862,23 @@
 127.0.0.1 paxful.co.in
 127.0.0.1 repairshoppr.com
 127.0.0.1 weidenerkammerchor.de
-127.0.0.1 westchange.top
 127.0.0.1 wmglobus.com
+127.0.0.1 u4.aktivwebsitedesign.com
+127.0.0.1 valandy.sk
+127.0.0.1 oceanmama.ca
+127.0.0.1 ohiokush.com
+127.0.0.1 udifo.com
+127.0.0.1 wtwetwerq.tk
+127.0.0.1 veryield-malyst.com
+127.0.0.1 newtypeinstallliteflash.icu
+127.0.0.1 uplatnosci.com
+127.0.0.1 uxconnect.org
+127.0.0.1 vilamucuripe.com.br
+127.0.0.1 yppmovement.org
+127.0.0.1 cosmeticawards.space
+127.0.0.1 tbufussball.bplaced.net
+127.0.0.1 toniaszkurhan.com
+127.0.0.1 wtwetwerq.ml
 127.0.0.1 2giga.link
 127.0.0.1 803mine.com
 127.0.0.1 aajychvi.bid
