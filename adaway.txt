@@ -14675,7 +14675,6 @@
 127.0.0.1 hogwelaw.co.zw
 127.0.0.1 hoonthuwa-officialphp.000webhostapp.com
 127.0.0.1 howeverted.ga
-127.0.0.1 hscjmexico.org
 127.0.0.1 iaceckwe.com
 127.0.0.1 iftikhar.info
 127.0.0.1 imperiodemariamulambo.com.br
@@ -24945,7 +24944,6 @@
 127.0.0.1 myeltherwalleet.com
 127.0.0.1 myewhterallet.com
 127.0.0.1 meychterwallet.com
-127.0.0.1 abiggerpicture.org
 127.0.0.1 affiliations.igg.biz
 127.0.0.1 alincortinajes.cl
 127.0.0.1 anna.vandersteen-budel.nl
@@ -26912,6 +26910,8 @@
 127.0.0.1 wsxzsify4.club
 127.0.0.1 wsxzsal8.club
 127.0.0.1 5bw.ru
+127.0.0.1 bitblockminer.com
+127.0.0.1 us6-mailchimp.com
 127.0.0.1 2giga.link
 127.0.0.1 803mine.com
 127.0.0.1 aajychvi.bid
