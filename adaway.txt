@@ -19331,7 +19331,6 @@
 127.0.0.1 lmotsa6g.beget.tech
 127.0.0.1 lmotsagy.beget.tech
 127.0.0.1 lmotsayv.beget.tech
-127.0.0.1 lockdowntrainingsolutions.com
 127.0.0.1 longtermcareinsure.com
 127.0.0.1 lowdawnrealty.us
 127.0.0.1 macrosdaycl.000webhostapp.com
@@ -26912,6 +26911,7 @@
 127.0.0.1 5bw.ru
 127.0.0.1 bitblockminer.com
 127.0.0.1 us6-mailchimp.com
+127.0.0.1 ethblock.org
 127.0.0.1 2giga.link
 127.0.0.1 803mine.com
 127.0.0.1 aajychvi.bid
