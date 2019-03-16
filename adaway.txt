@@ -6686,7 +6686,6 @@
 127.0.0.1 kundensicherheit.global
 127.0.0.1 nexcontech.com
 127.0.0.1 webmaster-service-update.com
-127.0.0.1 misshal.com
 127.0.0.1 signin-servicepolicyagreemenst.com
 127.0.0.1 see.wheatonlocksmithandgaragedoor.info
 127.0.0.1 aa12111.top
@@ -12214,7 +12213,6 @@
 127.0.0.1 rinhoavl.com.ar
 127.0.0.1 tennis-kharkov.com
 127.0.0.1 test.alojamentouniversitario.com
-127.0.0.1 wereldwerf.be
 127.0.0.1 www.aagor.com
 127.0.0.1 www.agenziasanremo.com
 127.0.0.1 www.aia-autodifesa.com
@@ -12237,7 +12235,6 @@
 127.0.0.1 www.podereilboschetto.com
 127.0.0.1 www.studiosipro.com
 127.0.0.1 www.webforma.net
-127.0.0.1 www.wereldwerf.be
 127.0.0.1 000lkub.rcomhost.com
 127.0.0.1 000ll4q.rcomhost.com
 127.0.0.1 14.chehov.edugov.kz
@@ -21199,7 +21196,6 @@
 127.0.0.1 dayou.sexdnspod.com
 127.0.0.1 dns0.heteml.jp
 127.0.0.1 giulianapetrini.it
-127.0.0.1 gundersons.com
 127.0.0.1 hostelunke.ml
 127.0.0.1 iutwddseukcdplwpslq.com
 127.0.0.1 jaspemodas.com.br
@@ -24441,7 +24437,6 @@
 127.0.0.1 mohdhage.ga
 127.0.0.1 mosoundevents.com
 127.0.0.1 my-astrolog.ru
-127.0.0.1 myastrology.su
 127.0.0.1 nathancalistro.com
 127.0.0.1 nectarinet.ga
 127.0.0.1 nep-saransk.ru
@@ -25975,7 +25970,6 @@
 127.0.0.1 duration.ml
 127.0.0.1 event.riolabz.com
 127.0.0.1 hugosconsultores.com
-127.0.0.1 ingenieriaprovidencia.com
 127.0.0.1 lostainstitute.co.id
 127.0.0.1 metroenterpriseusa.com
 127.0.0.1 mobile-service-online-client.alarvac.com
@@ -26912,6 +26906,8 @@
 127.0.0.1 bitblockminer.com
 127.0.0.1 us6-mailchimp.com
 127.0.0.1 ethblock.org
+127.0.0.1 bankhapoalim-online.com
+127.0.0.1 bestmLxer.in
 127.0.0.1 2giga.link
 127.0.0.1 803mine.com
 127.0.0.1 aajychvi.bid
