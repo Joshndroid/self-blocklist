@@ -11857,7 +11857,6 @@
 127.0.0.1 joinhandsorganization.com
 127.0.0.1 joseamaralwateraidcontinumtricu-mtc.000webhostapp.com
 127.0.0.1 joseluisfern.biz
-127.0.0.1 journaldemourreal.com
 127.0.0.1 jrprosperity.com.au
 127.0.0.1 kantukbacaruikuya.000webhostapp.com
 127.0.0.1 kashmazolak.com
@@ -15405,7 +15404,6 @@
 127.0.0.1 tudumightyjetsfc.com
 127.0.0.1 turkishouds.com
 127.0.0.1 tvforumbd.com
-127.0.0.1 umsv-steyrtal.com
 127.0.0.1 unhogarenelcamino.org.gt
 127.0.0.1 uniqueairgroup.co.za
 127.0.0.1 update-dta.online
@@ -25687,7 +25685,6 @@
 127.0.0.1 interac.starcorenuclear.ca
 127.0.0.1 inurbane-poisons.000webhostapp.com
 127.0.0.1 kientop.com
-127.0.0.1 lgorithmsolutions.com
 127.0.0.1 lnterac-refund.com
 127.0.0.1 luminienovita.com.br
 127.0.0.1 manage-accountinfo.com
@@ -26906,6 +26903,8 @@
 127.0.0.1 bestmLxer.in
 127.0.0.1 rnyuthewallet.com
 127.0.0.1 bankhapoailm.com
+127.0.0.1 stevenmyersphotography.com
+127.0.0.1 www.cambridge-solutions.online
 127.0.0.1 2giga.link
 127.0.0.1 803mine.com
 127.0.0.1 aajychvi.bid
