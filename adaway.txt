@@ -19812,7 +19812,6 @@
 127.0.0.1 dqemqcbxgofddopclb.com
 127.0.0.1 dtlcovcvrppjte.bid
 127.0.0.1 eit.folks.su
-127.0.0.1 eldridgestreet.org
 127.0.0.1 enemygreat.net
 127.0.0.1 eobqwmqykyyk.com
 127.0.0.1 epitorrent.com
@@ -25559,7 +25558,6 @@
 127.0.0.1 amritaraichand.com
 127.0.0.1 atlashealthcare.ca
 127.0.0.1 av-douga.net
-127.0.0.1 baileyplants.com
 127.0.0.1 banquepopulaire.fr.activer.cyberplus.ekroitpe.com
 127.0.0.1 beabeaf.com
 127.0.0.1 caf-fr-espace.com
@@ -26844,7 +26842,6 @@
 127.0.0.1 valandy.sk
 127.0.0.1 oceanmama.ca
 127.0.0.1 ohiokush.com
-127.0.0.1 udifo.com
 127.0.0.1 wtwetwerq.tk
 127.0.0.1 veryield-malyst.com
 127.0.0.1 newtypeinstallliteflash.icu
@@ -26905,6 +26902,7 @@
 127.0.0.1 stevenmyersphotography.com
 127.0.0.1 www.cambridge-solutions.online
 127.0.0.1 bankhapoailm-login.com
+127.0.0.1 btcbozdurma.ml
 127.0.0.1 2giga.link
 127.0.0.1 803mine.com
 127.0.0.1 aajychvi.bid
