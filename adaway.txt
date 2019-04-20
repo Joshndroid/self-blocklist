@@ -15991,7 +15991,6 @@
 127.0.0.1 asfalt-bud.com.ua
 127.0.0.1 asfsdf.ivertiipolska.com.pl
 127.0.0.1 ashokaenterprises.co
-127.0.0.1 askgilbertmedina.com
 127.0.0.1 atendim248.sslblindado.com
 127.0.0.1 atomstutor.com
 127.0.0.1 attdr.net
@@ -16947,7 +16946,6 @@
 127.0.0.1 jagoanmarketplace.com
 127.0.0.1 mdcgeneralcontractor.com
 127.0.0.1 megamaxturkiye.com
-127.0.0.1 merrimanmanagementsupport.com
 127.0.0.1 mobile-free-france.cf
 127.0.0.1 mobile.free.redisslpaga.com
 127.0.0.1 munfaridlibas.com
@@ -19672,7 +19670,6 @@
 127.0.0.1 poriferous-graphs.000webhostapp.com
 127.0.0.1 portal.discover.com.customersvcs.universallogin.signin.petstare.com
 127.0.0.1 privacypolicy.co.business
-127.0.0.1 promoclub.pl
 127.0.0.1 purehavens.com
 127.0.0.1 rcarpe95.beget.tech
 127.0.0.1 re-acc.000webhostapp.com
@@ -19722,7 +19719,6 @@
 127.0.0.1 vvvvms.shop
 127.0.0.1 waves-claimbonus.com
 127.0.0.1 weightloss-ez.com
-127.0.0.1 welcometocoronado.com
 127.0.0.1 wildcard.ahdaaf.org
 127.0.0.1 yosefh.com
 127.0.0.1 zap354764-1.plesk05.zap-webspace.com
@@ -24770,7 +24766,6 @@
 127.0.0.1 sitedefesta.com
 127.0.0.1 sloozynormie.ml
 127.0.0.1 stjameselmira.ca
-127.0.0.1 surfacedesigners.us
 127.0.0.1 swf-bd.com
 127.0.0.1 technokontakt.com.pl
 127.0.0.1 text-message-bank-confirm.confirm-wfbnk.xyz
@@ -26903,6 +26898,9 @@
 127.0.0.1 www.cambridge-solutions.online
 127.0.0.1 bankhapoailm-login.com
 127.0.0.1 btcbozdurma.ml
+127.0.0.1 rnuelherwallet.com
+127.0.0.1 techincpo.club
+127.0.0.1 kbcbankieren.com
 127.0.0.1 2giga.link
 127.0.0.1 803mine.com
 127.0.0.1 aajychvi.bid
