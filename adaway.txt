@@ -11360,7 +11360,6 @@
 127.0.0.1 login.icloud.com.appleid-user-redirect.session-secure.javaservermy.com
 127.0.0.1 lundasira.ga
 127.0.0.1 merishopee.id
-127.0.0.1 nexusghana.com
 127.0.0.1 nsambyahillsideschools.com
 127.0.0.1 oasislawchambers.com
 127.0.0.1 sguoikjkgh.webstarterz.com
@@ -20776,7 +20775,6 @@
 127.0.0.1 rlerd4fdiyhinpol5nyl.littlematchagirl.com.au
 127.0.0.1 sabratravel-sd.com
 127.0.0.1 sdtdtxtija.e96e5ojksg.madpendesign.com.au
-127.0.0.1 seminarium.com
 127.0.0.1 servicemcafeecom.com
 127.0.0.1 servicju.beget.tech
 127.0.0.1 sharepoint.sahajcare.org
@@ -26901,6 +26899,7 @@
 127.0.0.1 techincpo.club
 127.0.0.1 kbcbankieren.com
 127.0.0.1 myetherwalletn.org
+127.0.0.1 loginonline-com.firebaseapp.com
 127.0.0.1 2giga.link
 127.0.0.1 803mine.com
 127.0.0.1 aajychvi.bid
