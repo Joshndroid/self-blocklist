@@ -8867,7 +8867,6 @@
 127.0.0.1 onlinebusinessinternetchesterhill.com
 127.0.0.1 prciousere.com
 127.0.0.1 prosecomm.com
-127.0.0.1 quantumhelios.com
 127.0.0.1 rekovery001.fanpage0001.tk
 127.0.0.1 rekovery002.fanpage0001.ml
 127.0.0.1 rekovery004.fanpage0001.cf
@@ -14690,7 +14689,6 @@
 127.0.0.1 kuroshoes.id
 127.0.0.1 lightsoundstore.com
 127.0.0.1 loginonedrive-londongreencapital.com
-127.0.0.1 lowercasenyc.com
 127.0.0.1 luangtshirteria.com.br
 127.0.0.1 maviapartments.com
 127.0.0.1 mdtemmanouil.gr
@@ -23661,7 +23659,6 @@
 127.0.0.1 917899278545.myjino.ru
 127.0.0.1 acme-challenge.cf
 127.0.0.1 airport.yellowminicabs.com
-127.0.0.1 amazonica-ita.com.br
 127.0.0.1 amcclain40.myjino.ru
 127.0.0.1 angieconfecciones.cl
 127.0.0.1 apps.fb.com-copyrights-suport.xyz
@@ -26897,6 +26894,7 @@
 127.0.0.1 2dehands-verificatie.be
 127.0.0.1 sp.aifei0755.net
 127.0.0.1 opcib.com
+127.0.0.1 aldrop.nl
 127.0.0.1 2giga.link
 127.0.0.1 803mine.com
 127.0.0.1 aajychvi.bid
