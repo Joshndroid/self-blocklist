@@ -12217,7 +12217,6 @@
 127.0.0.1 www.artisticasrl.com
 127.0.0.1 www.autoriparazioniflorisgiorgio.com
 127.0.0.1 www.cadeplot.net
-127.0.0.1 www.championwp.com
 127.0.0.1 www.consorzioabc.com
 127.0.0.1 www.foritalynews.it
 127.0.0.1 www.gesusalva.org
@@ -15105,7 +15104,6 @@
 127.0.0.1 endif.000webhostapp.com
 127.0.0.1 equestrian.horse-trai.horseboxes.dll-offer-items.com
 127.0.0.1 ermusiclab.com
-127.0.0.1 esco-ee.com.ua
 127.0.0.1 espace-info-ameli-assure-maladie.com
 127.0.0.1 f9sk9y3mkq.bradul.creatory.org
 127.0.0.1 fac5fo7d4n.bradul.creatory.org
@@ -26597,7 +26595,6 @@
 127.0.0.1 webmegobvcx.usa.cc
 127.0.0.1 bbyapim.com
 127.0.0.1 bnhdfrt.info
-127.0.0.1 brianmcivor.com
 127.0.0.1 brisktourconsult.com.gh
 127.0.0.1 cardionova.in
 127.0.0.1 cooleroni.com
@@ -26895,6 +26892,7 @@
 127.0.0.1 sp.aifei0755.net
 127.0.0.1 opcib.com
 127.0.0.1 aldrop.nl
+127.0.0.1 localbitcoins.live
 127.0.0.1 2giga.link
 127.0.0.1 803mine.com
 127.0.0.1 aajychvi.bid
