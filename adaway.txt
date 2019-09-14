@@ -12009,7 +12009,6 @@
 127.0.0.1 supporthelp1428158.online
 127.0.0.1 taxiyandex.win
 127.0.0.1 veronicaleal.com.br
-127.0.0.1 victoriazenoff.com
 127.0.0.1 waitunder.net
 127.0.0.1 wasagabeach.club
 127.0.0.1 wxsssfvmqi.com
@@ -15235,7 +15234,6 @@
 127.0.0.1 mobile-moncomptes.fr
 127.0.0.1 mobile.updatescotia.crystalls.com
 127.0.0.1 mobopromo.biz
-127.0.0.1 momentumfirst.com.au
 127.0.0.1 mon-compte-assure-ameli-remboursement.com
 127.0.0.1 mruwcqqk01.bradul.creatory.org
 127.0.0.1 myocrealtor.com
@@ -23307,7 +23305,6 @@
 127.0.0.1 tubelightkhan.tk
 127.0.0.1 wellsfargo.com-verify-your-account-information.truncade.ru
 127.0.0.1 westcoastuniversity-edu.com
-127.0.0.1 xclusivetouch.co.uk
 127.0.0.1 asianmeals.com
 127.0.0.1 autofbfollower.tk
 127.0.0.1 benignoconstruction.com
@@ -23899,7 +23896,6 @@
 127.0.0.1 radioritmototalfm.com
 127.0.0.1 rchockxm.tk
 127.0.0.1 reciclarn.ind.br
-127.0.0.1 recyclego.com
 127.0.0.1 rehmaninternational.com
 127.0.0.1 relaunchme.us15.list-manage.com
 127.0.0.1 rentfella.ru
@@ -26887,6 +26883,8 @@
 127.0.0.1 opcib.com
 127.0.0.1 aldrop.nl
 127.0.0.1 localbitcoins.live
+127.0.0.1 forumloadfast.pro
+127.0.0.1 mkt.bectero.com
 127.0.0.1 2giga.link
 127.0.0.1 803mine.com
 127.0.0.1 aajychvi.bid
