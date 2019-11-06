@@ -18478,7 +18478,6 @@
 127.0.0.1 jeff-trexler.com
 127.0.0.1 jessaminedance.com
 127.0.0.1 joeynizuk.com
-127.0.0.1 jonathanwolf.com.au
 127.0.0.1 jualumni-bd.org
 127.0.0.1 jugshots.com
 127.0.0.1 k1capital.net.au
@@ -26864,6 +26863,7 @@
 127.0.0.1 localtcoins.net
 127.0.0.1 loalbitccoins.info
 127.0.0.1 fres-news.com
+127.0.0.1 locaibitcons.info
 127.0.0.1 2giga.link
 127.0.0.1 803mine.com
 127.0.0.1 aajychvi.bid
