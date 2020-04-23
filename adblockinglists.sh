@@ -11,6 +11,6 @@ wget http://raw.githubusercontent.com/Marfjeh/coinhive-block/master/domains
 #merge the files together
 cat mylist justdomains domains > merged
 #Generate easy adaway compatible file
-sed -e 's/^/127.0.0.1 /' merged > adaway.txt
+sed -e 's/^/0.0.0.0 /' merged > adaway.txt
 #remove temp downloaded domain and merged files
 rm merged
