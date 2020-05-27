@@ -10855,7 +10855,6 @@
 0.0.0.0 service-confirmation-customer-support.traxlerenterprises.com
 0.0.0.0 service-confirmation-customer.traxlerenterprises.com
 0.0.0.0 settings-identitas.000webhostapp.com
-0.0.0.0 shagarat.com
 0.0.0.0 shivamcommunications.com
 0.0.0.0 shubhbhawna.com
 0.0.0.0 sicma-media.com
@@ -12007,7 +12006,6 @@
 0.0.0.0 sekolahrakyatindonesia.net
 0.0.0.0 semogabahagiasayang.tk
 0.0.0.0 service-client-remboursement.com.cafecop.pt
-0.0.0.0 shannondensmore.com
 0.0.0.0 shaticgroups.com
 0.0.0.0 shopcocofleur.com
 0.0.0.0 signin.amazon.co.uk-prime.form-unsuscribe.id-5564.charlescooper.com.au
@@ -22434,7 +22432,6 @@
 0.0.0.0 bellesirenesalon.com
 0.0.0.0 betterrealize.net
 0.0.0.0 fqwdqw4d4.com
-0.0.0.0 fullsizechevy.com
 0.0.0.0 garanti-internetgiris.com
 0.0.0.0 geafkae.info
 0.0.0.0 halkbankasi-ramazan-hediyeleri.com
@@ -24430,7 +24427,6 @@
 0.0.0.0 emircreation.com
 0.0.0.0 exitostudio.com.br
 0.0.0.0 f4ds4g6253dh737d648h7j6489.000webhostapp.com
-0.0.0.0 firstline.cc
 0.0.0.0 geomaxrenewables.co.ke
 0.0.0.0 glascowhs.com
 0.0.0.0 hanzele.wpdevcloud.com
@@ -25838,7 +25834,6 @@
 0.0.0.0 jytdjdj.co.uk
 0.0.0.0 lelojaterz.temp.swtest.ru
 0.0.0.0 letstalkretirement.com.au
-0.0.0.0 memoriesofalifetime.com.au
 0.0.0.0 more.square7.ch
 0.0.0.0 mrwilsonshirecar.com.au
 0.0.0.0 mycreatelog.net
@@ -26951,6 +26946,7 @@
 0.0.0.0 xn--localbitcins-vcd.com
 0.0.0.0 siambiznews.com
 0.0.0.0 lp.searchmulty.com
+0.0.0.0 usibw.top
 0.0.0.0 2giga.link
 0.0.0.0 803mine.com
 0.0.0.0 aajychvi.bid
